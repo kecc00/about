@@ -1,25 +1,30 @@
 Hey, I'm Kevin 👋
-I'm a 26 year old developer based in Honduras, and I'm passionate about crafting digital experiences.
+I'm a 26 year old developer based in Honduras.
 
 Check out my website to learn more about me.
-Explore my blog where I share insights and learnings.
-Stay updated with my journey on Instagram, LinkedIn and YouTube.
+Stay updated with my journey on Instagram, LinkedIn.
 Explore my VS Code Configuration for development optimization.
-🔭 Current Endeavors
-I'm currently working as a fullstack developer in Germany, where my journey involves both building and learning. Here's what I'm currently focused on:
 
-I'm engaged in exciting fullstack projects.
-I'm exploring Python adn Nest.js to enhance my skill set.
-I'm an early riser, always driven and constantly learning in the tech world.
+🔭 Current Endeavors
+I am currently working on a marine life conservation project, in my spare time I am studying a Bachelor in Software Development at BYU-Idaho University, I am currently focused on building my own brand. Here's what I'm currently focused on:
+
+I'm dedicated to my own brand.
+I'm exploring Python and Redis to improve my skill set.
+I am an early riser, always motivated and constantly learning in the world of technology.
+
 ✨ Fun Facts
-Demon Slayer is my favorite anime.
-As a kid, I wanted to be an astronaut.
 Html was my first programming language.
-I love using Mac after switching from Linux.
+I love using Mac after switching from Windows.
+
+🙋‍♂️ Hobbies 
+I love fishing
+I like to enjoy the beach
+I practice extreme cycling
+
 📫 Contact
 For a quick response, DM me on Instagram or LinkedIn.
 
-For professional inquiries, reach out via email at <!--mirayatech.contact@gmail.com.-->
+For professional inquiries, reach out via email at kecc.contact@gmail.com
 
 <!---
 kecc00/kecc00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
