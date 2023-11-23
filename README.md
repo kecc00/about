@@ -1,5 +1,5 @@
 Hey, I'm Kevin 👋
-I'm a 26 year old developer based in Honduras.
+I'm a 26 year old developer Jr based in Honduras.
 
 Check out my website to learn more about me.
 Stay updated with my journey on Instagram, LinkedIn.
