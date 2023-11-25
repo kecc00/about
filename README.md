@@ -1,27 +1,25 @@
-Hey, I'm Kevin 👋
-I'm a 26 year old developer Jr based in Honduras.
+Bienvenido a mi espacio 🙋🏻‍♂️
 
-Check out my website to learn more about me.
-Stay updated with my journey on Instagram, LinkedIn.
-Explore my VS Code Configuration for development optimization.
+Echa un vistazo a mi sitio web para saber más sobre mí. Manténgase actualizado con mi viaje en Instagram, LinkedIn. 
 
-🔭 Current Endeavors
-I am currently working on a marine life conservation project, in my spare time I am studying a Bachelor in Software Development at BYU-Idaho University, I am currently focused on building my own brand. Here's what I'm currently focused on:
+🔭 Esfuerzos actuales
+Actualmente estoy trabajando en un proyecto de conservación de vida marina, Estudio una licenciatura en Desarrollo de Software en la Universidad BYU-Idaho, actualmente estoy enfocado en construir mi propia marca. 
+Esto es en lo que me estoy centrando actualmente:
 
-🌱 I'm dedicated to my own brand.
-I'm exploring Python and Redis to improve my skill set.
-I am an early riser, always motivated and constantly learning in the world of technology.
+🌱 Me dedico a mi propia marca. 
+Estoy explorando Python y Redis para mejorar mi conjunto de habilidades. 
+Siempre motivado y aprendiendo constantemente en el mundo de la tecnología.
 
-✨ Fun Facts
-Html was my first programming language.
-I love using Mac after switching from Windows.
+✨ Datos divertidos
+Html fue mi primer lenguaje de programación. 
+Me encanta usar Mac después de cambiar de Windows.
 
-🙋‍♂️ Hobbies 
-I love fishing
-I like to enjoy the beach
-I practice extreme cycling
+🙋‍♂️ Aficiones
+Me encanta pescar
+me gusta disfrutar de la playa 
+Practico ciclismo extremo
 
-📫 Contact
-For a quick response, DM me on Instagram or LinkedIn.
+📫 Contacto
+Para una respuesta rápida, envíame un mensaje directo en Instagram o LinkedIn.
 
-For professional inquiries, reach out via email at kecc.contact@gmail.com
+Para consultas profesionales, comuníquese por correo electrónico a kecc.contact@gmail.com
